@@ -4,5 +4,6 @@ def initialize
 end
 
 def learn
+  knowledg
 end
 end
