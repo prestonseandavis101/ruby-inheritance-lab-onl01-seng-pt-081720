@@ -1,7 +1,8 @@
 class Student < User 
 def initialize
-  knowledge = []
+  @knowledge = []
 end
 
-def teach
+def learn
+end
 end
