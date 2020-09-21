@@ -1,4 +1,4 @@
 class Student 
-class Teacher < User 
+class Student < User 
   end
 end
